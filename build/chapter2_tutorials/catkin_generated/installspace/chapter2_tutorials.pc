@@ -1,0 +1,8 @@
+prefix=/home/amalia/book_tutorials/install
+
+Name: chapter2_tutorials
+Description: Description of chapter2_tutorials
+Version: 0.0.0
+Cflags: -I/home/amalia/book_tutorials/install/include
+Libs: -L/home/amalia/book_tutorials/install/lib 
+Requires: message_runtime

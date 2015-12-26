@@ -1,0 +1,2 @@
+chapter2_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/amalia/book_tutorials/devel -DCMAKE_INSTALL_PREFIX=/home/amalia/book_tutorials/install -G Unix Makefiles

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "chapter2_tutorials")
+set(chapter2_tutorials_MAINTAINER "amalia <lelia.cretu@gmail.com>")
+set(chapter2_tutorials_DEPRECATED "")
+set(chapter2_tutorials_VERSION "0.0.0")
+set(chapter2_tutorials_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation")
+set(chapter2_tutorials_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "message_runtime")
+set(chapter2_tutorials_BUILDTOOL_DEPENDS "catkin")
